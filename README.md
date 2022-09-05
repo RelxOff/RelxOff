@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RelxOff
 - 👀 I’m interested in basic informatics, C and Hardware.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning C# OOP.
 - ⚡ Fun fact: Coding will soon be as important as reading.
 - 🌱 I’m currently studying informatics at BFS BBB in Baden, Switzerland.
 - 💞️ I’m currently not really looking forward to collaborating with anybody.
