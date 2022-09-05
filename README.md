@@ -1,15 +1,14 @@
 - 👋 Hi, I’m @RelxOff
-- 👀 I’m interested in basic informatics, C and Hardware.
+- 👀 I’m interested in basic informatics and Hardware.
 - 🌱 I’m currently learning C# OOP.
 - ⚡ Fun fact: Coding will soon be as important as reading.
-- 🌱 I’m currently studying informatics at BFS BBB in Baden, Switzerland.
 - 💞️ I’m currently not really looking forward to collaborating with anybody.
 
 <!--
 **RelxOff/RelxOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently studying informatics at (place).
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
