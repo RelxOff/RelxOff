@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RelxOff
 - 👀 I’m interested in basic informatics and Hardware.
-- 🌱 I’m currently learning C# OOP.
-- ⚡ Fun fact: Coding will soon be as important as reading.
 - 💞️ I’m currently not really looking forward to collaborating with anybody.
 
 <!--
