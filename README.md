@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @RelxOff
-- 👀 I’m interested in basic informatics and Hardware.
 
 <!--
 **RelxOff/RelxOff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 👀 I’m interested in basic informatics and Hardware.
 - 💞️ I’m currently not really looking forward to collaborating with anybody.
 - 🌱 I’m currently studying informatics at (place).
 - 🔭 I’m currently working on ...
